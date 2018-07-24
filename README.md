@@ -69,5 +69,5 @@
 
 该项目比较有参考意义，可以根据自己的需求进行定制。
 体验demo前先安装插件（根目录下的RetrofitPlugin.jar）
-
+插件项目地址：https://github.com/HowardChenhaoyang/android-studio-plugin
 ![操作流程](https://github.com/HowardChenhaoyang/RetrofitPluginDemo/blob/master/operation.gif)
