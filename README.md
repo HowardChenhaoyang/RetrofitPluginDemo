@@ -69,4 +69,4 @@
 
 该项目比较有参考意义，可以根据自己的需求进行定制。
 
-[](https://github.com/HowardChenhaoyang/RetrofitPluginDemo/blob/master/operation.gif)
+![操作流程](https://github.com/HowardChenhaoyang/RetrofitPluginDemo/blob/master/operation.gif)
