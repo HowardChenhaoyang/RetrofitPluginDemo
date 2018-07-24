@@ -68,5 +68,6 @@
 其中1，2两步无法避免，优化的只有第3步，因此可以借助Intelli IDEA的插件化技术，彻底解放双手，自动生成第三步的代码。
 
 该项目比较有参考意义，可以根据自己的需求进行定制。
+体验demo前先安装插件（根目录下的RetrofitPlugin.jar）
 
 ![操作流程](https://github.com/HowardChenhaoyang/RetrofitPluginDemo/blob/master/operation.gif)
